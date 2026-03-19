@@ -1,2 +1,4 @@
 Este es un archivo de prueba para el ejercicio de Git.
 Realizado durante la pasantía.
+
+Modificación realizada desde la rama nueva_rama
